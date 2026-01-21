@@ -1,0 +1,5 @@
+{
+  "name": "Combat Stat Simulator 4.0",
+  "description": "A high-fidelity RPG stat simulator for a 4-stat system (Combat, Magic, Ranged, Defense) with round-robin tournament simulation and win-rate analysis.",
+  "requestFramePermissions": []
+}
